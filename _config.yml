@@ -39,11 +39,11 @@ avatar: "/img/dd_logo_sq.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
+ navbar-col: "#433012"
 # navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
+ footer-col: "#433012"
 # footer-img: "/img/bgimage.png"
-# page-col: "#FF0000"
+ page-col: "#529e78"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -107,7 +107,7 @@ url-pretty: "blog.drum.dog"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-76314106-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -126,10 +126,10 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year/:month/:title
 paginate: 5
 
 kramdown:

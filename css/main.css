@@ -9,9 +9,9 @@ layout: null
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
-  color: #404040;
+  color: #333;
   position: relative;
-  background: #FFF;
+  background: #529e78;
   {% if site.page-col %}
   background: {{ site.page-col }};
   {% endif %}
@@ -129,14 +129,15 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #404040;
+  color: white;
+  opacity: 0.5;
 }
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #0085a1;
+  color: #9d9d9d;
 }
 
 .navbar-custom .navbar-brand-logo {
