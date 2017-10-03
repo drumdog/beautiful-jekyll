@@ -43,7 +43,8 @@ a:focus {
   opacity: 0.5;
 }
 blockquote {
-  color: #808080;
+  color: white;
+  opacity: 0.5;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -293,7 +294,8 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: white;
+  opacity: 0.5;
 }
 
 footer .list-inline {
@@ -326,7 +328,7 @@ footer .theme-by {
 
 .post-preview {
   padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #333;
 }
 
 @media only screen and (min-width: 768px) {
@@ -341,13 +343,14 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #404040;
+  color: #333;
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #0085a1;
+  color: white;
+  opacity: 0.5;
 }
 
 .post-preview .post-title {
@@ -361,7 +364,8 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: white;
+  opacity: 0.5;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
@@ -405,20 +409,22 @@ footer .theme-by {
 
 .blog-tags {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  color: #999;
+  color: #333;
+  opacity: 0.5;
   font-size: 15px;
   margin-bottom: 30px;
 }
 
 .blog-tags a {
-  color: #008AFF;
+  color: #333;
+  opacity: 0.5;
   text-decoration: none;
   padding: 0px 5px;
 }
 
 .blog-tags a:hover {
   border-radius: 2px;
-  color: #008AFF;
+  color: #333;
   background-color: #CCC;
 }
 
