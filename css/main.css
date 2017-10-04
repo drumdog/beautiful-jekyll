@@ -5,6 +5,9 @@ layout: null
 @import url("pygment_highlights.css");
 
 /* --- General --- */
+html, body {
+  height: 100%;
+}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -19,6 +22,8 @@ body {
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
   {% endif %}
+  display: flex;
+  flex-direction: column;
 }
 p {
   line-height: 1.5;
@@ -60,6 +65,7 @@ hr.small {
 
 .main-content {
   padding-top: 80px;
+  flex: 1 0 auto;
 }
 @media only screen and (min-width: 768px) {
   .main-content {

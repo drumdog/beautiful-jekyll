@@ -3,9 +3,10 @@ layout: post
 title: Traditional vs Matched Grip
 subtitle: Which is best for me?
 bigimg: /img/photos/ryanDrumming01.jpg
+tags: [technique, drumsticks]
 ---
 
-We take a look at the history of the different grips and how to decide which is best for you.
+We take a look at the history of the different grip techniques and how to decide which is best for you.
 
 When a drummer picks up the sticks for the first time there's a barrage of information and stimulus for their brain (and the neighbours ears) to process, but in all the excitement and infernal noise, one thing that goes overlooked is often stick grip. It's almost instinctual for even a complete novice to pick up the sticks in matched grip, perhaps as they would a tennis racquet or a TV remote, or most other items. Association to other everyday items aside, even tutors almost exclusively teach beginners matched grip today; so why is traditional grip still relevant in modern drumming, and how does it differ in musical results?
 
