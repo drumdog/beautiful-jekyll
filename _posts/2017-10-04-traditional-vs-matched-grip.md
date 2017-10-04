@@ -2,6 +2,7 @@
 layout: post
 title: Traditional vs Matched Grip
 subtitle: Which is best for me?
+author: Nick Hartland
 bigimg: /img/photos/ryanDrumming01.jpg
 tags: [technique, drumsticks]
 ---

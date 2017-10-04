@@ -36,6 +36,9 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
+		    {% if page.author %}
+		    <span class="post-meta">Written by {{ page.author }}</span>
+		    {% endif %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
@@ -61,6 +64,9 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
+		    {% if page.author %}
+		    <span class="post-meta">Written by {{ page.author }}</span>
+		    {% endif %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
