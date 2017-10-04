@@ -65,7 +65,6 @@ hr.small {
 
 .main-content {
   padding-top: 80px;
-  flex: 1 0 auto;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -117,6 +116,10 @@ img {
   .disqus-comments {
     margin-top: 40px;
   }
+}
+
+.container {
+  flex: 1 0 auto;
 }
 
 /* --- Navbar --- */
