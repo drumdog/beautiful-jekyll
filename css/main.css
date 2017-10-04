@@ -78,20 +78,24 @@ hr.small {
 
 ::-moz-selection {
   color: white;
+  opacity: 0.5;
   text-shadow: none;
   background: #0085a1;
 }
 ::selection {
   color: white;
+  opacity: 0.5;
   text-shadow: none;
   background: #0085a1;
 }
 img::selection {
   color: white;
+  opacity: 0.5;
   background: transparent;
 }
 img::-moz-selection {
   color: white;
+  opacity: 0.5;
   background: transparent;
 }
 
@@ -328,7 +332,7 @@ footer .theme-by {
 
 .post-preview {
   padding: 20px 0;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid rgba(1, 1, 1, 0.5);
 }
 
 @media only screen and (min-width: 768px) {
@@ -350,10 +354,12 @@ footer .theme-by {
 .post-preview a:hover {
   text-decoration: none;
   color: white;
-  opacity: 0.5;
+  opacity: 0.75;
 }
 
 .post-preview .post-title {
+  color: white;
+  opacity: 0.5;
   font-size: 30px;
   margin-top: 0;
 }
@@ -364,7 +370,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: white;
+  color: #333;
   opacity: 0.5;
   font-size: 18px;
   font-style: italic;
