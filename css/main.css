@@ -354,7 +354,7 @@ footer .theme-by {
 .post-preview a:hover {
   text-decoration: none;
   color: white;
-  opacity: 0.75;
+  opacity: 0.5;
 }
 
 .post-preview .post-title {
@@ -722,6 +722,10 @@ td.gutter {
 
 #social-share-section {
   margin-bottom: 30px;
+}
+
+.fa-inverse {
+  color: #333;
 }
 
 /* --- Notification boxes --- */
