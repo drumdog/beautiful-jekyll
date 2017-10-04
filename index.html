@@ -19,6 +19,9 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
+	  {% if post.author %}
+	    Written by {{ post.author }}<br />
+	  {% endif %}
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
