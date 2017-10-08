@@ -13,9 +13,13 @@ When a drummer picks up the sticks for the first time there's a barrage of infor
 
 The seemingly unorthodox and asymmetrical appearance of traditional grip stems back to long before drum kits. Military marching snare players carried their drums on a sling over to one side; because of the angle created, their grip had to allow them to reach the snare without inadvertently sticking an elbow into the unfortunate drummer to their left.
 
+![Traditional Grip](https://cdn.drum.dog/img/posts/traditionalGrip.jpg)
+
 When the drum kit as we know it began to evolve in the early 20th century, the snare moved to a stand all of its own, but remained in the same angle sloping away to the right, because that's how it goes, right? Well, not forever; at some point in the mid 1900's a wise (or bored!) drummer had the bright idea to hold both sticks the same way, thus "matching" the grips of both hands. This paired with a flatter snare angle was the beginning of the matched grip revolution; it seemed to spread like wildfire though the drumming world, almost as if a sigh of relief from all the students struggling with that 'strange left hand thing'. It wasn't long before even marching snare players had developed new snare harnesses to straighten the angle, accommodating for matched grip. Matched grip was soon to be the preferred choice by most players, dwarfing traditional grip to almost a rarity.
 
 Matched grip afforded players a more balanced, and seemingly more intuitive, approach. Both hands now had the same striking motion, offering the same power and manoeuvrability with both sticks. This was just in time for the rise of rock, and eventually metal, with many players taking full advantage of the extra power afforded in matched grip with ear (and hoop) splitting backbeats. As matched grip grew, variations on the grip evolved; a 'German' palms down style using mostly wrist action for strokes, and a 'French' (also known as Timpani grip) style, using more finger control with the palms facing each other. These variations can be observed clearly today in the French approach of players like Simon Phillips and Sonny Emory, to the German grip of players such as Travis Orbin or Anika Nilles. As the grips evolved a middle ground, dubbed the 'American' grip, appeared where the hand is tilted roughly 45 degrees towards the other, offering the best of both worlds.
+
+![Traditional Grip](https://cdn.drum.dog/img/posts/matchedGrip.jpg)
 
 With all benefits that matched grip had to offer, it would only be a matter of time before traditional grip was a thing of the past, surely? Not necessarily...
 
