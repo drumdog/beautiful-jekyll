@@ -4,6 +4,7 @@ title: Traditional vs Matched Grip
 subtitle: Which is best for me?
 author: Nick Hartland
 bigimg: /img/photos/ryanDrumming01.jpg
+image: /img/photos/ryanDrumming01.jpg
 tags: [technique, drumsticks]
 ---
 
@@ -27,6 +28,8 @@ Although matched approach was widely adopted fairly quickly, there were (and sti
 Many great players cite an improved access to subtleties and intridicate dynamic control as their reasoning to stick (geddit??) with the 'old school' grip, but on the other end of the spectrum, Stewart Copeland has often given his views on hitting hard with traditional: 
 
 _"The whole point to using traditional grip is because it's the most efficient way to use your hand to hit a drum. You can hit 50 times harder with traditional grip than you can with matched. Matched gives you no power; you use only the muscles on the top of your forearm with matched instead of the big muscles on the bottom of your forearm with traditional. You can get a much stronger stroke that way."_ (Rolling Stone, 1997)
+
+![Traditional Grip](https://cdn.drum.dog/img/posts/stewartCopeland01.jpg)
 
 Stewart isn't the only player to have found hard-hitting success in traditional: Thomas Lang often displays his frighteningly powerful traditional playing, while metal player Nick Pierce exclusively uses traditional grip in applications as extreme as death metal.
 With these trend-busting uses of traditional in mind, it soon becomes clear that it's a very 'horses for courses' choice with different players finding what they need for their style in the grip that suits them.
