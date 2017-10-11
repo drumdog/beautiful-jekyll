@@ -408,10 +408,10 @@ footer .theme-by {
   height: 192px;
   width: 192px;
   margin-top: -18%;
-  filter: grayscale(90%);
+  filter: grayscale(0%);
 }
 .post-image:hover {
-  filter: grayscale(0%);
+  filter: grayscale(90%);
 }
 .post-image img {
   border-radius: 100px;
