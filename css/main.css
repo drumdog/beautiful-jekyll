@@ -407,7 +407,7 @@ footer .theme-by {
   float: right;
   height: 192px;
   width: 192px;
-  margin-top: -35px;
+  margin-top: -18%;
   filter: grayscale(90%);
 }
 .post-image:hover {

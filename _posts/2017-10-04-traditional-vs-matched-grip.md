@@ -20,7 +20,7 @@ When the drum kit as we know it began to evolve in the early 20th century, the s
 
 Matched grip afforded players a more balanced, and seemingly more intuitive, approach. Both hands now had the same striking motion, offering the same power and manoeuvrability with both sticks. This was just in time for the rise of rock, and eventually metal, with many players taking full advantage of the extra power afforded in matched grip with ear (and hoop) splitting backbeats. As matched grip grew, variations on the grip evolved; a 'German' palms down style using mostly wrist action for strokes, and a 'French' (also known as Timpani grip) style, using more finger control with the palms facing each other. These variations can be observed clearly today in the French approach of players like Simon Phillips and Sonny Emory, to the German grip of players such as Travis Orbin or Anika Nilles. As the grips evolved a middle ground, dubbed the 'American' grip, appeared where the hand is tilted roughly 45 degrees towards the other, offering the best of both worlds.
 
-![Traditional Grip](https://cdn.drum.dog/img/posts/matchedGrip.jpg)
+![Matched Grip](https://cdn.drum.dog/img/posts/matchedGrip.jpg)
 
 With all benefits that matched grip had to offer, it would only be a matter of time before traditional grip was a thing of the past, surely? Not necessarily...
 
@@ -28,8 +28,6 @@ Although matched approach was widely adopted fairly quickly, there were (and sti
 Many great players cite an improved access to subtleties and intridicate dynamic control as their reasoning to stick (geddit??) with the 'old school' grip, but on the other end of the spectrum, Stewart Copeland has often given his views on hitting hard with traditional: 
 
 _"The whole point to using traditional grip is because it's the most efficient way to use your hand to hit a drum. You can hit 50 times harder with traditional grip than you can with matched. Matched gives you no power; you use only the muscles on the top of your forearm with matched instead of the big muscles on the bottom of your forearm with traditional. You can get a much stronger stroke that way."_ (Rolling Stone, 1997)
-
-![Traditional Grip](https://cdn.drum.dog/img/posts/stewartCopeland01.jpg)
 
 Stewart isn't the only player to have found hard-hitting success in traditional: Thomas Lang often displays his frighteningly powerful traditional playing, while metal player Nick Pierce exclusively uses traditional grip in applications as extreme as death metal.
 With these trend-busting uses of traditional in mind, it soon becomes clear that it's a very 'horses for courses' choice with different players finding what they need for their style in the grip that suits them.
