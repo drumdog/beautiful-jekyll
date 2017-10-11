@@ -363,9 +363,15 @@ footer .theme-by {
 .post-preview a {
   text-decoration: none;
   color: #333;
+  opacity: 1;
 }
 
-.post-preview a:focus,
+.post-preview a:focus {
+  text-decoration: none;
+  color: white;
+  opacity: 1;
+}
+
 .post-preview a:hover {
   text-decoration: none;
   color: white;
