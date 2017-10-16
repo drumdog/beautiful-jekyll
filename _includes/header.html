@@ -8,10 +8,19 @@
 	  {% assign imgnum = forloop.index %}
 	  {% for imginfo in bigimg %}
 	    {% if imginfo[0] %}
-		  data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
-		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+	      {% if imginfo[0] contains '://' %}
+	        data-img-src-{{ imgnum }}="{{ imginfo[0] }}"
+		    data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+		  {% else %}
+		    data-img-src-{{ imgnum }}="{{ imginfo[0] | prepend: site.baseurl | replace: '//', '/' }}"
+		    data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+		  {% endif %}
 		{% else %}
-		  data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
+		  {% if imginfo contains '://' %}
+  		    data-img-src-{{ imgnum }}="{{ imginfo }}"
+		  {% else %}
+		    data-img-src-{{ imgnum }}="{{ imginfo | prepend: site.baseurl | replace: '//', '/' }}"
+		  {% endif %}
 		{% endif %}
 	  {% endfor %}
     {% endfor %}
