@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Product Review: Meinl Cymbal Tuners
+title: Product Review - Meinl Cymbal Tuners
 subtitle: An effective way to control those rowdy cymbals.
 author: Nick Hartland
-bigimg: https://cdn.drum.dog/img/posts/cymbalTuner01.jpg
-image: https://cdn.drum.dog/img/posts/cymbalTuner02.jpg
+bigimg: //cdn.drum.dog/img/posts/cymbalTuner01.jpg
+image: //cdn.drum.dog/img/posts/cymbalTuner02.jpg
 tags: [product review, cymbals, meinl]
 ---
 
