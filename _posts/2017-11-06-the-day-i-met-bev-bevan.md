@@ -8,7 +8,7 @@ image: //cdn.drum.dog/img/posts/bevBevanSm.png
 tags: [Bev Bevan, drummer, interview]
 ---
 
-Earlier this year I had the opportunity to interview comedian Jasper Carrot for my local entertainment magazine. As I was lead backstage to meet the man himself his tour manager said, "I've arranged for you to have a chat with the shows drummer first." Great I thought, always glad to chat to a fellow drummer. As it turned out the show's drummer was Japers old school pal and Rock and roll hall of farm inaugurated legend Bev Bevan.
+Earlier this year I had the opportunity to interview comedian Jasper Carrot for my local entertainment magazine. As I was lead backstage to meet the man himself his tour manager said, "I've arranged for you to have a chat with the shows drummer first." Great I thought, always glad to chat to a fellow drummer. As it turned out the show's drummer was Japer's old school pal and Rock 'n Roll hall of fame inaugurated legend Bev Bevan.
 
 With absolutely no questions prepared I just let Bev talk about his amazing career while I listened, completely star struck.
 
