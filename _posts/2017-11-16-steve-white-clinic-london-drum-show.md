@@ -8,7 +8,7 @@ image: //cdn.drum.dog/img/posts/londonDrumShowLogo2017.png
 tags: [london drum show, Steve White, clinic, review]
 ---
 
-I do love a drum clinic and I have attended a lot of them over the years. Even if some of it goes straight over my head, I usually leave feeling inspired and just wanting to go home and immediately play.  So, attending the Sunday of the 2017 London drum show put me in a perfect position to choose between a number of short clinics all in one day and stock up on education and inspiration. 
+I do love a drum clinic and I have attended a lot of them over the years. Even if some of it goes straight over my head, I usually leave feeling inspired and just wanting to go home and immediately play.  So, attending the Sunday of the 2017 London Drum Show put me in a perfect position to choose between a number of short clinics all in one day and stock up on education and inspiration. 
 
 Steve White, is in my (and many others) opinion one of best drummers in the world, if not the best. His was the first drum clinic I ever attended many moons ago in Winchester and I've been back many times since, including an amazing shared performance in 2000 with drumming legend Chad Smith of The Red Hot Chilli Peppers. 
 
