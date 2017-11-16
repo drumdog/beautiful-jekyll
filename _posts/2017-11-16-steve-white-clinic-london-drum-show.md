@@ -3,7 +3,7 @@ layout: post
 title: Steve White in Clinic
 subtitle: London Drum Show Performances - Part 1
 author: Ryan Leese
-bigimg: https://cdn.drum.dog/img/posts/steveWhiteLondonDrumShow01.png
+bigimg: https://cdn.drum.dog/img/posts/steveWhiteLondonDrumShow01.jpg
 image: //cdn.drum.dog/img/posts/londonDrumShowLogo2017.png
 tags: [london drum show, Steve White, clinic, review]
 ---
@@ -12,7 +12,7 @@ I do love a drum clinic and I have attended a lot of them over the years. Even i
 
 Steve White, is in my (and many others) opinion one of best drummers in the world, if not the best. His was the first drum clinic I ever attended many moons ago in Winchester and I've been back many times since, including an amazing shared performance in 2000 with drumming legend Chad Smith of The Red Hot Chilli Peppers. 
 
-![Steve White On Stage](https://cdn.drum.dog/img/posts/steveWhiteLondonDrumShow02.png)
+![Steve White On Stage](https://cdn.drum.dog/img/posts/steveWhiteLondonDrumShow02.jpg)
 
 Steve came on stage and it was immediately clear that this was not going to be standard clinic as he dived straight on in with a history of music through percussion lesson. Starting in west Africa we were taken on a rhythmic journey as the Clave rhythm evolved as it moved around the world due to the movement of people, sadly starting with slavery. Steve showed how the Clave developed in Cuba into the Bembe and then how the 6/8 feel got straightened into a 4/4 making it easier to play quickly and then evolving into Rumba. The coolest part is when he demonstrated how the Clave is a truly universal rhythm found in virtually all styles of music right up to modern day drum and bass all demonstrated with buckets of style and finesse. 
 
