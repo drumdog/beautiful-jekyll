@@ -3,8 +3,8 @@ layout: post
 title: Need help buying your first drum kit?
 subtitle: We look at the Mapex range
 author: Ryan Leese
-bigimg: /img/photos/drumkits01.jpg
-image: /img/photos/drumkitTornado02-sq.jpg
+bigimg: https://cdn.drum.dog/img/posts/drumkits01.jpg
+image: //cdn.drum.dog/img/posts/drumkitTornado02-sq.jpg
 tags: [drumkits, Mapex]
 ---
 
