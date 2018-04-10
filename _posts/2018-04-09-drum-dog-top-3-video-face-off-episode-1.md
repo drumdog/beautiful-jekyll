@@ -1,14 +1,14 @@
 ---
 layout: post
 title: The Drum Dog Top 3 Drum Video Face-Off
-subtitle: Episode 1 - Nick Heartland
+subtitle: Episode 1 - Nick Hartland
 author: Ryan Leese
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/drummerCloseUp01.jpg
 image: https://v16.ams3.digitaloceanspaces.com/dd/images/dd_logo_02_256.png
 tags: [drum video, top 3, horacio hernandez, mike mitchell, matt garstka]
 ---
 
-Here at Drum Dog when we get a quiet five minuets we love to jump on YouTube and check out the latest drum videos. This got me thinking and I challenged Nick Heartland (one of our amazing drum teachers) to pick his top three drumming performance videos and I would do the same. So here goes, this is Nick's top three, my top three will be in the next blog so stay tuned!
+Here at Drum Dog when we get a quiet five minuets we love to jump on YouTube and check out the latest drum videos. This got me thinking and I challenged Nick Hartland (one of our amazing drum teachers) to pick his top three drumming performance videos and I would do the same. So here goes, this is Nick's top three, my top three will be in the next blog so stay tuned!
 
 ### Number 3 - Horacio Hernandez - On Fire
 
