@@ -8,7 +8,7 @@ image: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/drumheads-sq.jpg
 tags: [drum heads, advice]
 ---
 
-You’ve had the time of your life beating 7-shades of blue out of your drums lately, your family have invested in industrial hearing protection and you’ve already upset half of your neighbours, but alas, your drums don’t quite sing like they used did a few months back? No, your ears aren’t deceiving your, it’s time to change your drumheads!
+You’ve had the time of your life beating 7-shades of blue out of your drums lately, your family have invested in industrial hearing protection and you’ve already upset half of your neighbours, but alas, your drums don’t quite sing like they used did a few months back? No, your ears aren’t deceiving you, it’s time to change your drumheads!
 
 You jump online to order new heads, but you’re stopped in your tracks by what feels like a thousand options, how can this possibly be so complicated?! 
 The truth is, it’s not. You don’t need a PhD in drum maintenance to make an informed choice; a little background info in these 3 areas will see you making an informed choice in no time...
