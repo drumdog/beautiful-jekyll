@@ -8,9 +8,9 @@ image: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/yamaha-ead10_03_s
 tags: [drum video, yamaha, ead10]
 ---
 
-Ryan and Nick unbox and play with Yamaha's new toy, the EAD10 drum mic and audio processor.
+In this video Ryan and Nick unbox and play with Yamaha's new toy, the EAD10 drum mic and audio processor.  See what they thought along with a demo of some of the sounds this little box can make!
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/1wILKb6-ebg" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/1wILKb6-ebg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ![Drumheads](https://v16.ams3.digitaloceanspaces.com/dd/images/posts/yamaha-ead10_01.jpg)
 
