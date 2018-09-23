@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nate Smith in Clinic
-subtitle: Nate Hartland went to go see Nate Smith in clinic at Turner Sims, Southampton. Read his thoughts here.
+subtitle: Nick Hartland went to go see Nate Smith in clinic at Turner Sims, Southampton. Read his thoughts here.
 author: Nick Hartland
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/nate-clinic-header.jpg
 image: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/nate-clinic-sq.jpg
