@@ -5,6 +5,7 @@ subtitle: Nate Hartland went to go see Nate Smith in clinic at Turner Sims, Sout
 author: Nick Hartland
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/nate-clinic-header.jpg
 image: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/nate-clinic-sq.jpg
+share-img: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/nate-clinic-post-share-img.jpg
 tags: [drummer, drumclinic, drums, natesmith, turnersims, southampton]
 ---
 
