@@ -9,7 +9,7 @@ image: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/puregrit-doublegl
 tags: [drum video, drumsticks, vic firth]
 ---
 
-Ryan and Nick discuss the new Vic Firth Puregrit and Double glaze drumsticks.
+Ryan and Nick discuss the new Vic Firth Puregrit and Doubleglaze drumsticks.
 
 <iframe width="750" height="422"  src="https://www.youtube.com/embed/Ktxsq0NmaqM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Let us know your thoughts below!
