@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Vic Firth Puregrit and Doubleglaze drum sticks review
-subtitle: Ryan and Nick discuss these new drumsticks from Vic Firth.
+subtitle: Ryan and Nick discuss these new sticks from Vic Firth.
 author: Ryan Leese and Nick Hartland
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/puregrit-doubleglaze-big.jpg
 share-img: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/puregrit-doubleglaze-shareimage.jpg
