@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Most Memorable Live Drummer
-subtitle: Nick Hartland tells us about his most memorable drummer
+subtitle: Nick Hartland tells us his most memorable drummer
 author: Nick Hartland
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/memorable-drummer-big.jpg
 share-img: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/memorable-drummer-shareimage.jpg
@@ -13,6 +13,8 @@ tags: [drummer, mike mitchell, gig, fleece, bristol, memorable drummers]
 As a self-professed drum nerd I often find myself at gigs because of who is going to be sat behind the kit that night. While I do spend these evenings doing my best to absorb the overall performance of the band, my mind often pulls me back to ‘drumland’ and I soon find myself focusing on the tub-thumper a little more than I perhaps should. Usually after a short while I will catch myself doing this and force my ears to ‘zoom’ back out and take in the full aural picture, but every once in a while a drummer will be so mesmerizing that I’m completely drawn in for the entire show; one such performance that has especially stuck with me was Mike Mitchell performing with the Stanley Clarke band July 2017.
 
 I hadn’t bought my ticket solely to see Mike, jazz fusion bassist legend Stanley Clarke was more than enough to secure my ticket sale regardless of the band, but when I knew that Mike would be on the kit that evening I’d be fibbing to say I wasn’t more than a little excited. 
+
+![Mike Mitchell - Most Memorable Drummer](https://v16.ams3.digitaloceanspaces.com/dd/images/posts/memorable-drummer-img2.jpg)
 
 The gig was held at The Fleece in Bristol (a nice cosy 450 cap venue for those unfamiliar) and I managed to get a spot with a great view of Mike’s kit. From the moment the show began to the second it ended my jaw was firmly placed on the ground. I would love to describe how Mike played that evening, but the words I need simply don’t exist. Mike was playing at the absolutely highest level of world-class player, with ideas sprouting from this seemingly bottomless source of creativity. The entire night was a master class in jazz-fusion drumming. His playing was an untameable force of nature.
 
@@ -27,4 +29,3 @@ While I leave many gigs talking about a specific fill or lick the drummer played
 What is your most memorable gig to date? What was the greatest lesson you took away from that gig? Comment below and join the discussion! 
 
 
-![Mike Mitchell - Most Memorable Drummer](https://v16.ams3.digitaloceanspaces.com/dd/images/posts/memorable-drummer-img2)
