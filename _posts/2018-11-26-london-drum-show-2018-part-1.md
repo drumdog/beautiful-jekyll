@@ -1,6 +1,6 @@
 ---
 layout: post
-title: London Drum Show 2018: More than just Backpacks and Gospel Chops
+title: London Drum Show 2018 - More than just Backpacks and Gospel Chops
 subtitle: The first blog post in our series about the London Drum Show 2018 
 author: Nick Hartland
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/LDS1-header.jpg
