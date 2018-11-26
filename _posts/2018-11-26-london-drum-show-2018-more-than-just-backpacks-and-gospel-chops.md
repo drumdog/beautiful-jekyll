@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Most Memorable Live Drummer
-subtitle: Nick Hartland tells us his most memorable drummer
+title: London Drum Show 2018: More than just Backpacks and Gospel Chops
+subtitle: The Drum Dog Team visit the London Drum Show 2018
 author: Nick Hartland
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/LDS1-header.jpg
 share-img: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/LDS1-shareimage.jpg
