@@ -10,7 +10,7 @@ tags: [drummer, drum clinic, drummers]
 ---
 
 
-We are about to host our second live drum clinic. This time with it's with Steve White. So to get ready we run down are 5 top clinics we have ever been to.
+We are about to host our second live drum clinic, this time with it's with Steve White. So to get ready we run down the 5 top clinics we have ever been to (so far).
 
 <iframe width="750" height="422" src="https://www.youtube.com/embed/OifMOcnx9tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
