@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 5 Drum Clinic
+title: Top 5 Drum Clinics
 subtitle: Nick and Ryan discuss their Top 5 Drum Clinics 
 author: Nick Hartland and Ryan Leese
 bigimg: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/T5DC-header.jpg
