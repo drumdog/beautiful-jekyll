@@ -10,8 +10,10 @@ tags: [drummer, drum clinic, drummers]
 ---
 
 
-We are about to host our second live drum clinic. This time with its with Steve white. So to get ready we run down are 5 top clinics we have ever been to.
+We are about to host our second live drum clinic. This time with it's with Steve white. So to get ready we run down are 5 top clinics we have ever been to.
 
 <iframe width="750" height="422" src="https://www.youtube.com/embed/OifMOcnx9tg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Let us know the best Drum clinics that you've attended.
+
+Tickets for our Steve White Clinic on 18th March 2019 are available [on Eventbrite here](https://www.eventbrite.co.uk/e/steve-white-in-clinic-tickets-54169184489).
