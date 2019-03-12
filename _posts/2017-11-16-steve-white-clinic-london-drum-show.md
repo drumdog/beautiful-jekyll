@@ -4,6 +4,7 @@ title: Steve White in Clinic
 subtitle: London Drum Show Performances - Part 1
 author: Ryan Leese
 bigimg: https://cdn.drum.dog/img/posts/steveWhiteLondonDrumShow01.jpg
+share-img: https://v16.ams3.digitaloceanspaces.com/dd/images/posts/steveWhiteLondonDrumShow01-shareimage.jpg
 image: //cdn.drum.dog/img/posts/londonDrumShowLogo2017.png
 tags: [london drum show, Steve White, clinic, review]
 ---
