@@ -15,8 +15,8 @@ A few months later myself, a camera and my dog turned up to the headquarters of 
 
 We headed into to the workshop where Mikey started his drum building process while I filmed every step. This video will be uploaded to the Drum Dog YouTube channel this week. d’Evercy drums aren’t built in the conventional way of plies of wood being bent into shape, they are built with staves of solid handpicked timber, expertly formed into drum shells. The many examples of finished instruments on shelves shows the high-quality craftsmanship that goes into the drums.
 
-We got half of the process filmed and I agreed to come back this year to film the rest of the process but the social distancing rules to prevent the spread of Covid-19 put pay to those plans. So we decided to split the video into two parts and release part one now and part two as soon as we’re allowed to get back into the workshop and film it. We will also take some of the drums into the drum dog studio and show off the sounds of the finished product.  Until then it’s back to my practice kit until we’re all allowed out again.
+We got half of the process filmed and I agreed to come back this year to film the rest of the process but the social distancing rules to prevent the spread of Covid-19 put pay to those plans. So we decided to split the video into two parts and release part one now and part two as soon as we’re allowed to get back into the workshop and film it. We will also take some of the drums into the Drum Dog studio and show off the sounds of the finished product.  Until then it’s back to my practice kit until we’re all allowed out again.
 
 ![Drum Workshop](https://v16.ams3.digitaloceanspaces.com/dd/images/posts/drumWorkshop02.jpg)
 
-Check out the d'Evercy Drums website here: https://www.devercydrums.com/
+Check out the d'Evercy Drums website here: <https://www.devercydrums.com/>
