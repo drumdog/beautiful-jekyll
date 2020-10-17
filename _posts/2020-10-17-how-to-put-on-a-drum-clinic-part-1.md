@@ -23,7 +23,7 @@ Simple right? Wrong.
 
 Getting the top brands on-board with the shop was easy enough. But even as promises of clinics echoed as I handed over the money for the opening orders, not one came through. Although it was never said, I'm sure the brands thought a clinic would never be successful in a small town like mine.
 
-I started to believe they may well be right until one day a guy comes into the shop. He tells me he is friends with master drum educator and stadium drummer Colin Woolway. Colin was performing a clinic in a nearby town (even smaller than mine) and asked if I could help out on the night. The clinic only sold nine tickets... this worried me but it didn't seem to bother Colin who was superb and I enjoyed a beer with him after the show. 
+I started to believe they may well be right until one day a guy comes into the shop. He tells me he is friends with master drum educator and stadium drummer Colin Woolway. Colin was performing a clinic in a nearby town (even smaller than mine) and asked if I could help out on the night. The clinic only sold nine tickets... this worried me but it didn't seem to bother Colin who was superb and I enjoyed a beer with him after the show. This experience gave me renewed confidence in what I could achieve.
 
 So how do you put on a drum clinic? Well at this point it's clear I didn't have a clue. Luckily that changed and I'll let you know how in next weeks blog!  Stay tuned... In the meantime if you've never been to a drum clinic, check out some videos of our own clinics on our YouTube page here: <https://fetch.drum.dog/youtube-live>
 
