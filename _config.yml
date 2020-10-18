@@ -39,11 +39,11 @@ avatar: "/img/dd_logo_sq.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#433012"
+navbar-col: "#333"
 # navbar-img: "/img/bgimage.png"
-footer-col: "#433012"
+footer-col: "#333"
 # footer-img: "/img/bgimage.png"
-page-col: "#529e78"
+page-col: "#222"
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
@@ -62,7 +62,7 @@ author:
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
-  #instagram: yourname # eg. daattali
+  instagram: drumdoguk # eg. daattali
   youtube: drumdog   # eg. user/daattali or channel/daattali
   #spotify: yourname   # eg. daattali
   #telephone: yourphone   # eg. +14159998888
