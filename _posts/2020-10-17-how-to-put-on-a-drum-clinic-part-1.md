@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to put a Drum Clinic - Part 1
+title: How to put on a Drum Clinic - Part 1
 subtitle: Ryan talks about his experience of putting on drum clinics and the early challenges he faced.
 author: Ryan Leese
 bigimg: https://cdn.drum.dog/dd/images/posts/colin-woolway-drum-clinic-header.jpg
